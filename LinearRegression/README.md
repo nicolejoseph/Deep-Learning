@@ -4,3 +4,5 @@ gradient descent, and automatic differentiation was required. Produced two plots
 
 running instructions:
 ./tf.sh python hw1/main.py  --num_features 1 --num_samples 50 --batch_size 32 --num_iters 300 --random_seed 398729765279 --num_M 4
+
+![Screenshot 2023-06-30 162248](https://github.com/nicolejoseph/Deep-Learning/assets/55464125/7e6b1085-52f4-4f8c-82fd-85588edc8a41)
