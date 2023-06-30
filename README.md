@@ -2,7 +2,7 @@
 Developed deep learning models for linear regression, computer vision, and classification using Python and TensorFlow. Implemented architectures such as:
 * Multilayer Perceptrons (MLP)
 * Convolutional Neural Networks (CNN)
-* Recurrent Neural Networks (RNN)
+* Residual Neural Networks (ResNet)
 * Transformers
 
 Applied techniques:
